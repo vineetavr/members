@@ -1,1 +1,13 @@
 gdsdfkljefjg
+to initialize repository
+$ git init
+to add file to repo
+$ git add fileName
+to commit
+$ git commit -m msg
+to push
+$ git remote add origin pathnameOfCentalRepository
+$ git push -u origin master
+to clone
+$ git clone pathnameOfCentalRepository
+asddf
