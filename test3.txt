@@ -1,4 +1,4 @@
-gdsdfkljefjg
+/*git commands*/
 to initialize repository
 $ git init
 to add file to repo
@@ -10,4 +10,3 @@ $ git remote add origin pathnameOfCentalRepository
 $ git push -u origin master
 to clone
 $ git clone pathnameOfCentalRepository
-asddf
