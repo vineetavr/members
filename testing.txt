@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 kavitha talekar
-=======
-vineeta
->>>>>>> d4b407cfd28d3a2b01b9a4e9cd9c36e120037422
+
