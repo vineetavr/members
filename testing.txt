@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+welcome to github .................
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+1welcome
+=======
+welcome ......
+>>>>>>> 31e16a9114401559bedba0707aa64f6a185f5962
+=======
+welcome to github ghgugui
+>>>>>>> bdcdd1544fb1720ab2c41a55bb3274775036de0a
+>>>>>>> 2afd084bd8e6470e18504594c564625a06c666e3
