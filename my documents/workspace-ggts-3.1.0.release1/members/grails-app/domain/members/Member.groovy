@@ -2,12 +2,12 @@ package members
 
 class Member {
 	
-	String name
+	String name1
 	int Age
 	String regNo1
 
     static constraints = {
-		name(blank:false)
+		name1(blank:false)
 		Age(nullable:false)
 		regNo1(blank:false)
     }
