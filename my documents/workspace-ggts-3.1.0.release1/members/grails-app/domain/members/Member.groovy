@@ -6,6 +6,8 @@ class Member {
 	int age
 	String regNo1
 
+	
+	
     static constraints = {
 		name1(blank:false)
 		age(nullable:false)
