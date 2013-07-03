@@ -4,12 +4,12 @@ class Member {
 	
 	String name
 	int age
-	String regNo
+	String regNo1
 
     static constraints = {
 		name(blank:false)
 		age(nullable:false)
-		regNo(blank:false)
+		regNo1(blank:false)
     }
 	
 	
